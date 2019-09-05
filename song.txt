@@ -4,4 +4,9 @@ two cheerful geese
 one gray
 another white
 two cheerful geese
-The end!
+
+one gray
+another white
+two cheerful geese
+-----------------------------------
+
